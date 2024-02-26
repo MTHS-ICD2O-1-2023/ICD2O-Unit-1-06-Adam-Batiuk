@@ -1,0 +1,11 @@
+/* Created by: Adam
+* Created on: Feb 2024
+* This file contains the CSS for index.html
+*/
+.mdl-layout__content {
+  padding: 40px;
+}
+
+.demo-list-item {
+  width: 400px;
+}
